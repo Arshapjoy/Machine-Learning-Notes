@@ -2,9 +2,9 @@
 This repo contains all the machine learning notes with source code and explanation with mathematical and graphical intution.
 
 1. **Introduction to ML**
-    1.1 AI/ML/DL/DS
-    1.2 Types of ML
-    1.3 ML algorithms
+    * AI/ML/DL/DS
+    * Types of ML
+    * ML algorithms
 2. **Linear Regression**
     2.1 cost function
     2.2 Gradient descent
