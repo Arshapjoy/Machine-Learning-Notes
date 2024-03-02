@@ -6,14 +6,14 @@ This repo contains all the machine learning notes with source code and explanati
     * Types of ML
     * ML algorithms
 2. **Linear Regression**
-    2.1 cost function
-    2.2 Gradient descent
-    2.3 Performance metrics
-    2.4 Ridge and Lasso
-    2.5 R squre and adjusted R square
+    * cost function
+    * Gradient descent
+    * Performance metrics
+    * Ridge and Lasso
+    * R squre and adjusted R square
 4. **Logistic Regression**
-    3.1 Cost function
-    3.2 Convergence Algorithm
-    3.3 Performance metrics
-    Accuracy, Precision, recall, f score
-5. 
+    * Cost function
+    * Convergence Algorithm
+    * Performance metrics
+    * Accuracy, Precision, recall, f score
+   
